@@ -33,6 +33,8 @@ Finally, explore the chosen model and its predictions under the hood, to see how
 
 “finding_donors.py”: Main Python script.
 
+"finding_donors.ipynb": Ipython notebook.
+
 “census.csv”: The project dataset.
 
 “visuals.py”: Supplementary visualizations for the project.
