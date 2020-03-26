@@ -1,6 +1,5 @@
-# Machine Learning Engineer Nanodegree
-
-# Project: Finding Donors for CharityML
+# Project: Finding Donors for CharityML (Machine Learning Engineer Nanodegree)
+You can find more informations in my [Post](https://davidforino-aisolutions.com/finding-donors/).
 
 # Project Overview
 
